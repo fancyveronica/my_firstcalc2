@@ -1,0 +1,26 @@
+.display{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    align-items: center;
+}
+.main{
+    background-color: black;
+    text-align: center;
+    border-radius: 10%;
+
+}
+td{
+    background-color: white;
+    color: black;
+}
+.cpart{
+    background-color: red;
+    border-radius: 20%; 
+}
+.equal{
+    background-color: orange;
+}
+.s{
+    border-radius: 20%;
+}
